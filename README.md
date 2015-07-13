@@ -8,7 +8,7 @@ Help content for Higher Ed applications.
 
 ### Console
 
-[Creating a new course](src/console/creating-a-new-course.md)
+[Create a new course](src/console/create-a-new-course.md)
 
 ### Revel
 
