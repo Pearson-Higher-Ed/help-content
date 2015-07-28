@@ -1,0 +1,37 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html,
+body,
+.container,
+.index,
+.detail {
+  height: 100%;
+}
+
+.index,
+.detail {
+  padding: 15px;
+}
+
+.index {
+  float: left;
+  width: 40%;
+}
+
+.detail {
+  float: right;
+  width: 60%;
+  box-shadow: 0 0 4px 0px rgba(0, 0, 0, 0.25);
+}
