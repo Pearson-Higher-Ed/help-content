@@ -95,9 +95,9 @@
       e.preventDefault();
 
       if (e.target.getAttribute('data-help') === 'list') {
-        this.helpContent.fetch(e.target.pathname).then(this.setIndex.bind(this));
+        this.helpContent.fetch(e.target.getAttribute('href')).then(this.setIndex.bind(this));
       } else {
-        this.helpContent.fetch(e.target.pathname).then(this.setDetail.bind(this));
+        this.helpContent.fetch(e.target.getAttribute('href')).then(this.setDetail.bind(this));
       }
     };
 
