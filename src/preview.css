@@ -20,6 +20,11 @@ body,
   height: 100%;
 }
 
+header {
+  height: 40px;
+  position: fixed;
+}
+
 .index,
 .detail {
   padding: 15px;
