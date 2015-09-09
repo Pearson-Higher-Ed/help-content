@@ -22,6 +22,7 @@ walk.walk(path, function(baseDir, fname, stat, next){
   fs.exists(outParallel, function(exists){
     if(isDir && !exists){
       // mkdir
+      console.log('making dir', outParallel);
       fs.mkdir(outParallel, next);
     }
     else if(!isDir && ext == 'html'){
