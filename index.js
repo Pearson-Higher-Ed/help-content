@@ -23,7 +23,9 @@ walk.walk(path, function(baseDir, fname, stat, next){
     if(isDir && !exists){
       // mkdir
       console.log('making dir', outParallel);
-      fs.mkdir(outParallel, next);
+      fs.mkdir(outParallel, function(){
+        next();
+      });
     }
     else if(!isDir && ext == 'html'){
       convertDoc(baseDir + fname, function(e, out, outHtml){
