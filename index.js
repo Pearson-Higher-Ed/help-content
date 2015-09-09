@@ -38,7 +38,7 @@ walk.walk(inPath, function(baseDir, fname, stat, next){
           if(err){
             next(err);
           }else{
-            fs.writeFile(outFname, out, function(err2){
+            fs.writeFile(outFname, JSON.stringify(out, null, '  '), function(err2){
               next(err2);
             });
           }
