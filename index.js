@@ -1,6 +1,7 @@
 var convertDoc = require('./lib/convertSingleDoc'),
   walk = require('fs-walk'),
-  fs = require('fs');
+  fs = require('fs'),
+  path = require('path');
 
 var vargs = process.argv.slice(2);
 
@@ -15,10 +16,9 @@ if(!path){
 //walk the path
 walk.walk(path, function(baseDir, fname, stat, next){
   var isDir = stat.isDirectory(),
-    outParallel = baseDir.replace(path, outputPath) + fname,
-    ext = fname.split('.');
+    outParallel = path.join(baseDir.replace(path, outputPath), fname),
+    ext = path.extname(fname);
 
-  ext = ext[ext.length-1];
   fs.exists(outParallel, function(exists){
     if(isDir && !exists){
       // mkdir
@@ -40,6 +40,9 @@ walk.walk(path, function(baseDir, fname, stat, next){
           }
         });
       });
+    }
+    else{
+      next();
     }
   });
 }, function(err){
