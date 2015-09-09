@@ -31,7 +31,7 @@ walk.walk(path, function(baseDir, fname, stat, next){
           if(err){
             next(err);
           }else{
-            fs.writeFile(outFname, out, function(err2)
+            fs.writeFile(outFname, out, function(err2){
               next(err2);
             });
           }
