@@ -15,6 +15,9 @@ if(!inPath){
 
 //walk the path
 walk.walk(inPath, function(baseDir, fname, stat, next){
+  if(fname == '.svn'){
+    return;
+  }
   var isDir = stat.isDirectory(),
     outParallel = path.join(baseDir.replace(inPath, outputPath), fname),
     ext = path.extname(fname);
