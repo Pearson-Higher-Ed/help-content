@@ -5,18 +5,18 @@ var convertDoc = require('./lib/convertSingleDoc'),
 
 var vargs = process.argv.slice(2);
 
-var path = vargs[0];
+var inPath = vargs[0];
 
 var outputPath = './out/';
 
-if(!path){
+if(!inPath){
   throw "Path must be supplied as only argument (node index.js /path/to/files/to/convert)";
 }
 
 //walk the path
-walk.walk(path, function(baseDir, fname, stat, next){
+walk.walk(inPath, function(baseDir, fname, stat, next){
   var isDir = stat.isDirectory(),
-    outParallel = path.join(baseDir.replace(path, outputPath), fname),
+    outParallel = path.join(baseDir.replace(inPath, outputPath), fname),
     ext = path.extname(fname);
 
   fs.exists(outParallel, function(exists){
