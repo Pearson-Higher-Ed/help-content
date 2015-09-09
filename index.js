@@ -16,7 +16,7 @@ if(!inPath){
 //walk the path
 walk.walk(inPath, function(baseDir, fname, stat, next){
   if(fname == '.svn'){
-    return;
+    next();
   }
   var isDir = stat.isDirectory(),
     outParallel = path.join(baseDir.replace(inPath, outputPath), fname),
@@ -31,7 +31,7 @@ walk.walk(inPath, function(baseDir, fname, stat, next){
       });
     }
     else if(!isDir && ext == '.html'){
-      convertDoc(baseDir + fname, function(e, out, outHtml){
+      convertDoc(path.join(baseDir, fname), function(e, out, outHtml){
         var outFname = outParallel.replace('.html', '.json');
         fs.writeFile(outParallel, outHtml, function(err){
           if(err){
