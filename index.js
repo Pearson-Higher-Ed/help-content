@@ -27,7 +27,7 @@ walk.walk(inPath, function(baseDir, fname, stat, next){
         next();
       });
     }
-    else if(!isDir && ext == 'html'){
+    else if(!isDir && ext == '.html'){
       convertDoc(baseDir + fname, function(e, out, outHtml){
         var outFname = outParallel.replace('.html', '.json');
         fs.writeFile(outParallel, outHtml, function(err){
