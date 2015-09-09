@@ -50,6 +50,7 @@ walk.walk(inPath, function(baseDir, fname, stat, next){
     }
   });
 }, function(err){
-
-  throw err;
+  if(err){
+    console.log(err);
+  }
 });
