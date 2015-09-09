@@ -20,7 +20,7 @@ walk.walk(inPath, function(baseDir, fname, stat, next){
     return;
   }
   var isDir = stat.isDirectory(),
-    outParallel = path.join(baseDir.replace(inPath, outputPath), fname),
+    outParallel = path.join(baseDir.replace(inPath, outputPath), fname).toLowerCase(),
     ext = path.extname(fname);
 
   fs.exists(outParallel, function(exists){
