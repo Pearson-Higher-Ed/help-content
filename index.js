@@ -33,7 +33,7 @@ walk.walk(inPath, function(baseDir, fname, stat, next){
     }
     else if(!isDir){
       convertDoc(path.join(baseDir, fname), function(e, out, outHtml){
-        var outFname = outParallel.replace('.html', '.json').replace('.htm', '.json');
+        var outFname = outParallel.replace(/(\.html|\.htm)/i, '.json');
         fs.writeFile(outParallel, outHtml, function(err){
           if(err){
             next(err);
