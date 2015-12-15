@@ -1,5 +1,5 @@
 {
   "title": "What if I don't see my content?",
-  "excerpt": " You can try entering different search terms in the search box at the top of a ",
-  "content": "<p> You can try entering different search terms in the search box at the top of the page. Either broaden your search by entering a subject keyword, such as <em>psychology</em>, or enter different specific search criteria. For example, enter an author name if you can't find a match on the title.</p>\r\n        <p>Remember that only REVEL, not MyLab &amp; Mastering, content is available. Get in touch with your sales rep if you still can't find your content.</p>"
+  "excerpt": "Try any of the following: ",
+  "content": "<p>Try any of the following:</p>\r\n        <ul>\r\n            <li>Enter different search terms in the search box at the top of the page.</li>\r\n            <li>Filter your results.</li>\r\n            <li>Change the list view to a grid view.</li>\r\n        </ul>\r\n        <p>Only REVEL content is available, not Pearson's MyLab &amp; Mastering content. Contact Pearson your sales rep if you still can't find your content.</p>"
 }
