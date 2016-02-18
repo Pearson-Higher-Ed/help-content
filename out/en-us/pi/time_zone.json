@@ -1,0 +1,5 @@
+{
+  "title": "How do I adjust my time zone and clock to sign in?",
+  "excerpt": "If the clock for your computer or other device is set to a time that doesn't ",
+  "content": "<p>If the clock for your computer or other device is set to a time that doesn't match your time zone, an error appears and you can't continue. For example, the default time zone for computers with the Windows operating system is Pacific Time. If you change the clock or switch the time zone without immediately setting the clock to match the time zone, the error appears.</p>\r\n        <p>To continue, switch to the correct time zone and immediately set your clock to match the current time for your time zone.</p>"
+}
