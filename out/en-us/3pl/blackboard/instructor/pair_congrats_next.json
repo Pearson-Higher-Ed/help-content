@@ -1,5 +1,5 @@
 {
   "title": "Where does Return to Course take me?",
-  "excerpt": "To finish adding REVEL content to your Blackboard course, you must select to ",
-  "content": "<p>To finish adding REVEL content to your <span>Blackboard</span> course, you must select <strong>Return to Course</strong>.</p>\r\n        <p>The Pearson REVEL Confirmation page in <span>Blackboard</span> appears for you to choose the folder location of your REVEL link. You can then go to REVEL and access REVEL tools from your <span>Blackboard</span> course.</p>\r\n        <p><strong>Important:</strong> If you skip these steps, REVEL content isn't added to your Blackboard course and you need to start again.</p>"
+  "excerpt": "When you select Return to Course, the Pearson REVEL Confirmation page in for ",
+  "content": "<p>When you select <strong>Return to Course</strong>, the Pearson REVEL Confirmation page in <span>Blackboard</span> appears for you to choose the folder location of your REVEL link. You can then access your REVEL content and tools from your <span>Blackboard</span> course.</p>\r\n        <p> If you don't select <strong>Return to Course</strong>, the next time you access REVEL, the Pearson REVEL Confirmation page appears before your content.</p>"
 }
