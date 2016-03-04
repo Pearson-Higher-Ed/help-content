@@ -1,5 +1,5 @@
 {
-  "title": "What happens after I submit my email address to get my username and password?",
+  "title": "What happens after I request my username and password?",
   "excerpt": "If you have a Pearson account, you'll get an email with your username and a to ",
-  "content": "<p>If you have a Pearson account, you'll get an email with your username and a link to reset your password.</p>\r\n        <p>For multiple accounts, the email lists all your usernames and separate links to reset your passwords. Make sure you only link one Pearson account.</p>"
+  "content": "<p>If you have a Pearson account, you'll get an email with your username and a link to reset your password. For multiple accounts, the email lists all your usernames and separate links to reset your passwords.</p>\r\n        <p>If you don't get an email, follow the tips from the message you get after requesting to reset your password.</p>\r\n        <p><strong>Note:</strong> If you're linking accounts from a Learning Management  System (LMS), the Reset Password page opens in a new window or tab. After you reset your password, close both windows or tabs and return to your LMS to continue.</p>"
 }
