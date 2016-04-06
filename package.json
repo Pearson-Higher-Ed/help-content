@@ -10,7 +10,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-sani": "node index.js ./test",
+    "clean": "rm ./out/*.htm* ./out/*.json"
   },
   "repository": {
     "type": "git",
