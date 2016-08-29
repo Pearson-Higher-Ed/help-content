@@ -1,5 +1,5 @@
 {
   "title": "How are course dates used?",
-  "excerpt": "Select the start and end dates for when the REVEL content is used in your",
-  "content": "<p>Select the start and end dates for when the REVEL content is used in your <span>Blackboard</span> course.</p>\r\n        <p>These dates don't currently determine the time frame for when you and your students can access the REVEL content.</p>"
+  "excerpt": "Select the start date, if different from the default of today, and end date for",
+  "content": "<p>Select the start date, if different from the default of today, and end date for your REVEL content.</p>\r\n        <p>These dates don't currently determine the time frame for when you and your students can access the REVEL content.</p>"
 }
