@@ -1,5 +1,5 @@
 {
-  "title": "How do I change my mobile number?",
-  "excerpt": "content",
-  "content": "<p>content tbd</p>"
+  "title": "How do I change my number?",
+  "excerpt": "Select the pencil icon. You’ll return to the Add your number page to enter and",
+  "content": "<p>Select the pencil icon. You’ll return to the Add your number page to enter and verify a new number.</p>\r\n        <p>If you don’t see the pencil icon, change your number from <a href=\"https://pi.pearsoned.com/v1/piapi/piui/signin?client_id=NimtqV7BcT00BM9xOXCQUFJYwF3RzEIk\" target=\"_self\">Account Settings</a>.</p>"
 }
