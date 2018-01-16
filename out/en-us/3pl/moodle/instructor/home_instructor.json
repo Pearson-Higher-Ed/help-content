@@ -1,5 +1,5 @@
 {
   "title": "What can I do here?",
   "excerpt": "On the Pearson page, you",
-  "content": "<p>On the Pearson page, you can:</p>\r\n        <ul>\r\n            <li>Select and add content when you first access Revel from your Moodle course. If you already added content, select your content to open it.</li>\r\n            <li>Under Grade Sync, choose to sync grades from Revel to your Moodle gradebook... (Before you change grade settings, make sure you're the only instructor doing so and grades aren't currently being synced.)</li>\r\n            <li>Access instructor or student help, Pearson Support, or diagnostics to give support for troubleshooting issues.</li>\r\n        </ul>"
+  "content": "<p>On the Pearson page, you can:</p>\r\n        <ul>\r\n            <li>Add or copy content when you first access Revel from your Moodle course. After that, select the Revel image or <strong>Open Revel</strong> from the Options menu to access your content.</li>\r\n                        <li>Access instructor or student help, Pearson Support, or diagnostics to give support for troubleshooting issues.</li>\r\n        </ul>"
 }
