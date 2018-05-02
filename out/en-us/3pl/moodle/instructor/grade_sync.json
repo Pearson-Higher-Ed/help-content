@@ -1,5 +1,5 @@
 {
   "title": "Grade sync",
-  "excerpt": "You can sync grades from your Revel content to your Moodle  course.",
-  "content": "<p>You can sync grades from your Revel content to your Moodle  course. </p>\r\n<p>Set up grade sync anytime. Make sure at least one student who registered and \r\nlinked accounts starts at least one assignment.</p>\r\n<p>Under Grade Sync, you can:</p>\r\n<ul>\r\n<li>Turn automatic sync on or off. This syncs grades as they become \r\navailable without taking any action.  (You can still select <strong>Sync \r\nNow</strong> to sync grades anytime.)</li>\r\n<li>Sync grades now for all assignments already available or that \r\nbecame available to students since you last synced grades.</li>\r\n<li>Sync overall score. </li></ul>"
+  "excerpt": "You can sync grades from your Pearseon content to your Moodle  course.",
+  "content": "<p>You can sync grades from your Pearseon content to your Moodle  course. </p>\r\n<p>Set up grade sync anytime. Make sure at least one student who registered and \r\nlinked accounts starts at least one assignment.</p>\r\n<p>Under Grade Sync, you can:</p>\r\n<ul>\r\n<li>Turn automatic sync on or off. This syncs grades as they become \r\navailable without taking any action.  (You can still select <strong>Sync \r\nNow</strong> to sync grades anytime.)</li>\r\n<li>Sync grades now for all assignments already available or that \r\nbecame available to students since you last synced grades.</li>\r\n<li>Sync overall score. </li></ul>"
 }
