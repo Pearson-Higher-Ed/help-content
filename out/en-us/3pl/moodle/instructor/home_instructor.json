@@ -1,5 +1,5 @@
 {
   "title": "What can I do here?",
   "excerpt": "On the Pearson page, you",
-  "content": "<p>On the Pearson page, you can:</p>\r\n        <ul>\r\n            <li>Add or copy content when you first access Revel from your Moodle course. After that, select the Revel image or <strong>Open Revel</strong> from the Options menu to access your content.</li>\r\n                        <li>Access instructor or student help, Pearson Support, or diagnostics to give support for troubleshooting issues.</li>\r\n        </ul>"
+  "content": "<p>On the Pearson page, you can:</p>\r\n        <ul>\r\n            <li>Add or copy content when you first access Pearson from your Moodle course. After that, select the content image or use the Options menu to access your content.</li>\r\n                        <li>Access instructor or student help, Pearson Support, or diagnostics to give support for troubleshooting issues.</li>\r\n        </ul>"
 }
