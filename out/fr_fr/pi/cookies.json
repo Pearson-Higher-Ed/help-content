@@ -1,0 +1,5 @@
+{
+  "title": "Comment activer les cookies ?",
+  "excerpt": "Les cookies sont des fichiers de sites Web qui enregistrent vos informations de",
+  "content": "<p>Les cookies sont des fichiers de sites Web qui enregistrent vos informations de navigation, y compris vos préférences et votre profil. Pour vous identifier ou lier des comptes, vous devez <a href=\"https://support.pearson.com/getsupport/s/article/Browser-Settings\" target=\"_blank\">activer les cookies de tiers</a>.</p><ul><li><strong>Chrome et Firefox :</strong> Activez tous les cookies ou ajoutez une exception pour <strong>pi.pearsoned.com</strong>.</li>\r\n            <li><strong>Internet Explorer :</strong> Activez tous les cookies ou ajoutez des exceptions pour <strong>pi.pearsoned.com</strong> et <strong>pearson.com</strong>.</li>\r\n            <li><strong>Safari et Edge :</strong> Activez tous les cookies.</li></ul><p>Si les problème persiste, essayez de <a href=\"https://support.pearson.com/getsupport/s/article/Browser-Settings\" target=\"_blank\">supprimer les fichiers mis en cache du navigateur</a>.</p>\r\n        <p>Consultez l'aide de votre navigateur si le problème n'est pas résolu.</p>"
+}

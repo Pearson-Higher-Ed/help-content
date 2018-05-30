@@ -1,0 +1,5 @@
+{
+  "title": "¿Qué sucede si me aparece un error en la hora o la fecha?",
+  "excerpt": "Si la fecha o la hora de su computadora u otro dispositivo están configuradas",
+  "content": "<p>Si la fecha o la hora de su computadora u otro dispositivo están configuradas de forma incorrecta para su zona horaria, aparecerá un error y no podrá continuar.</p>\r\n        <p>Por ejemplo, la zona horaria predeterminada para las computadoras con el sistema operativo Windows es la hora del Pacífico. Si cambia la hora o modifica la zona horaria manualmente sin asegurarse inmediatamente (automática o manualmente) de que la hora coincida con la zona horaria, aparecerá el error.</p>\r\n        <p><strong>Solución:</strong> Cambie la zona horaria a la opción correcta, si procede. Asegúrese de que la fecha y la hora estén correctas para su zona horaria. Si la hora se configura manualmente, y no desde un servidor de Internet o red, asegúrese de que se acerque lo más posible a la hora según el Reloj mundial. (Puede buscar el Reloj mundial en Internet).</p>"
+}

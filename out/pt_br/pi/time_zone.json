@@ -1,0 +1,5 @@
+{
+  "title": "O que acontece se ocorrer um erro de data ou hora?",
+  "excerpt": "Se a data ou o horário do seu computador ou dispositivo estiver definido",
+  "content": "<p>Se a data ou o horário do seu computador ou dispositivo estiver definido incorretamente para seu fuso horário, é exibido um erro e você não pode continuar.</p>\r\n        <p>Por exemplo, o fuso horário padrão para computadores com o sistema operacional Windows é Hora do Pacífico. Se você alterar manualmente o relógio ou mudar o fuso horário sem se certificar de que o relógio corresponde ao fuso horário, manual ou automaticamente, o erro é exibido.</p>\r\n        <p><strong>Solução:</strong> Altere para o fuso horário correto, se aplicável. Confira se a data e a hora estão corretas para o seu fuso horário. Se o seu relógio tiver sido definido manualmente, não a partir de um servidor de rede ou Internet, veja se ele está próximo ao horário determinado pelo Relógio Mundial (você pode pesquisar pelo Relógio Mundial na Internet).</p>"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Cosa succede in caso di errore di data o dell'orologio?",
+  "excerpt": "Se la data o l'orologio del computer o di un altro dispositivo non sono",
+  "content": "<p>Se la data o l'orologio del computer o di un altro dispositivo non sono impostati correttamente sul proprio fuso orario, viene visualizzato un messaggio di errore e non è possibile continuare.</p>\r\n        <p>Ad esempio il fuso orario predefinito per i computer con sistema operativo Windows è l'ora del Pacifico. Se si modifica manualmente l'ora o si cambia fuso orario senza accertarsi immediatamente che l'ora corrisponda automaticamente o manualmente a quella del fuso orario, viene visualizzato il messaggio di errore.</p>\r\n        <p><strong>Risoluzione:</strong> passare al fuso orario corretto, se possibile. Accertarsi che le impostazioni di data e ora siano corrette per il proprio fuso orario. Se l'orologio è impostato manualmente e non da un server Internet o di rete, accertarsi che l'ora si avvicini a quella dell'Orologio internazionale. È possibile cercare l'Orologio internazionale su Internet.</p>"
+}

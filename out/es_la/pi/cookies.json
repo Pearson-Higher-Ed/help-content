@@ -1,0 +1,5 @@
+{
+  "title": "¿Cómo puedo habilitar las cookies?",
+  "excerpt": "Las cookies son archivos de sitios web que almacenan la información de",
+  "content": "<p>Las cookies son archivos de sitios web que almacenan la información de navegación, incluidos el perfil y las preferencias. Para iniciar sesión o vincular cuentas, debe <a href=\"https://support.pearson.com/getsupport/s/article/Browser-Settings\" target=\"_blank\">habilitar cookies de terceros</a>.</p><ul><li><strong>Chrome y Firefox:</strong> Habilite todas las cookies o agregue una excepción para <strong>pi.pearsoned.com</strong>.</li>\r\n            <li><strong>Internet Explorer:</strong> Habilite todas las cookies o agregue excepciones para <strong>pi.pearsoned.com</strong> y <strong>pearson.com</strong>.</li>\r\n            <li><strong>Safari y Edge:</strong> Habilite todas las cookies.</li></ul><p>Si aún tiene problemas, intente <a href=\"https://support.pearson.com/getsupport/s/article/Browser-Settings\" target=\"_blank\">eliminar los archivos almacenados en la memoria caché del navegador</a>.</p>\r\n        <p>Consulte la sección Ayuda de su navegador si estas instrucciones no resultan útiles.</p>"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "Que faire si j'obtiens une erreur de date ou d'heure ?",
+  "excerpt": "Si la date ou l'heure configurée sur votre ordinateur ou un autre appareil ne",
+  "content": "<p>Si la date ou l'heure configurée sur votre ordinateur ou un autre appareil ne correspond pas à votre fuseau horaire, une erreur se produit et vous empêche de continuer.</p>\r\n        <p>Par exemple, le fuseau horaire défini par défaut sur les ordinateurs dotés du système d'exploitation Windows est celui du Pacifique. Si vous modifiez manuellement l'heure ou le fuseau horaire sans vous assurer immédiatement que l'heure s'ajuste (automatiquement ou manuellement) pour correspondre au fuseau horaire, l'erreur s'affiche.</p>\r\n        <p><strong>Résolution :</strong> Basculez vers le bon fuseau horaire, le cas échéant. Vérifiez que la date et l'heure correspondent à votre fuseau horaire. Si l'horloge est réglée manuellement, et non à partir d'un réseau ou d'un serveur Internet, vérifiez qu'elle s'approche de l'heure de l'horloge universelle. (Recherchez l'horloge universelle sur Internet.)</p>"
+}
