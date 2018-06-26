@@ -1,5 +1,5 @@
 {
   "title": "Where is the course name used?",
-  "excerpt": "The REVEL course name appears if you or your students access the content",
-  "content": "<p>The REVEL course name appears if you or your students access the content directly from REVEL.</p>\r\n        <p>The Blackboard course identifier is often the default. Use this as a course name, or enter a different one between 4 and 40 characters long.</p>"
+  "excerpt": "The course name appears if you or your students access the content directly",
+  "content": "<p>The course name appears if you or your students access the content directly from Pearson.</p>\r\n        <p>The Blackboard course identifier is often the default. Use this as a course name, or enter a different one between 4 and 40 characters long.</p>"
 }
