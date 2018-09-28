@@ -1,5 +1,5 @@
 {
   "title": "Como eu posso alterar meu número?",
-  "excerpt": "Selecione o ícone de lápis. Você vai retornar à página &quot;Adicionar",
-  "content": "<p>Selecione o ícone de lápis. Você vai retornar à página &quot;Adicionar número&quot; para inserir e verificar um novo número.</p>\r\n        <p>Se você não vir o ícone de lápis, altere o número em <a href=\"https://pi.pearsoned.com/v1/piapi/piui/signin?client_id=NimtqV7BcT00BM9xOXCQUFJYwF3RzEIk\" target=\"_blank\">Configurações da conta</a>.</p>"
+  "excerpt": "Selecione o ícone de lápis. Você vai retornar à página \"Adicionar número\" para",
+  "content": "<p>Selecione o ícone de lápis. Você vai retornar à página \"Adicionar número\" para inserir e verificar um novo número.</p>\r\n        <p>Se você não vir o ícone de lápis, altere o número em <a href=\"https://pi.pearsoned.com/v1/piapi/piui/signin?client_id=NimtqV7BcT00BM9xOXCQUFJYwF3RzEIk\" target=\"_blank\">Configurações da conta</a>.</p>"
 }
