@@ -1,5 +1,0 @@
-{
-  "title": "Grade sync",
-  "excerpt": "If available, you can sync grades from your Pearson content to your Brightspace",
-  "content": "<p>If available, you can sync grades from your Pearson content to your Brightspace course. </p>\r\n<p>Set up grade sync anytime. Make sure at least one student who registered and \r\nlinked accounts starts at least one assignment.</p>\r\n<p>Under Grade Sync, you can:</p>\r\n<ul>\r\n<li>Turn automatic sync on or off. This syncs grades as they become \r\navailable without taking any action.  (You can still select <strong>Sync \r\nNow</strong> to sync grades anytime.)</li>\r\n<li>Sync grades now for all assignments already available or that \r\nbecame available to students since you last synced grades.</li>\r\n<li>Sync all or selected assignments or overall score. (Depending on \r\nyour Pearson product, you may not see the <strong>Assignments</strong> \r\noption.)</li></ul>"
-}
