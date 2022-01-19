@@ -1,0 +1,5 @@
+{
+  "title": "How do I enable cookies?",
+  "excerpt": "Cookies are files from websites that store your browsing information, including",
+  "content": "<p>Cookies are files from websites that store your browsing information, including preferences and profile. To sign in or link accounts, you need to <a href=\"https://support.pearson.com/getsupport/s/article/Browser-Settings\" target=\"_blank\">enable third-party cookies</a>.</p>\r\n        <ul>\r\n            <li><strong>Chrome and Firefox:</strong> Enable all cookies or add an exception for <strong>pi.pearsoned.com</strong>.</li>\r\n            <li><strong>Internet Explorer:</strong> Enable all cookies or add exceptions for <strong>pi.pearsoned.com</strong> and <strong>pearson.com</strong>.</li>\r\n            <li><strong>Safari and Edge:</strong> Enable all cookies.</li>\r\n        </ul>\r\n        <p>If you still have trouble, try <a href=\"https://support.pearson.com/getsupport/s/article/Browser-Settings\" target=\"_blank\">deleting browser cached files</a>.</p>\r\n        <p>Check Help for your browser if it isn’t covered in these instructions.</p>"
+}
